@@ -1,0 +1,28 @@
+name: Simply Me Crissy
+favicon: null
+layout_spectrum: 0.42429985711351037
+typography_spectrum: 0.23403962678276002
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7185540297068655
+  lightness: 0.1592881833203137
+  saturation: 0.8425568179227412
+  rhythmicContrast: 0.861069752369076
+purpose: []
