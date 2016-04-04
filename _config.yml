@@ -1,28 +1,40 @@
-name: Simply Me Crissy
-favicon: null
-layout_spectrum: 0.42429985711351037
-typography_spectrum: 0.23403962678276002
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.7185540297068655
-  lightness: 0.1592881833203137
-  saturation: 0.8425568179227412
-  rhythmicContrast: 0.861069752369076
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8425568179227412
+  brandStrength: 0.6044776
+  lightness: 0.1592881833203137
+  brandColors:
+    - '#030303'
+    - '#FCFDFB'
+    - '#3A3038'
+    - '#B46EA4'
+    - '#D0AC7D'
+  rhythmicContrast: 0.861069752369076
+typography_spectrum: 0.3083023
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4242998571135104
+favicon: null
+name: Simply Me Crissy
